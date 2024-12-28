@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^([^/]+)$ public/views/$1 [L]
